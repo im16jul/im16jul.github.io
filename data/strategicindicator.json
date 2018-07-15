@@ -1,0 +1,98 @@
+[
+  {
+    "indicator_id": 2,
+    "title": "Inflasi, Oktober 2017",
+    "name": "Pada Oktober 2017, Kota Ternate mengalami inflasi sebesar 0,52 persen dengan indeks harga konsumen (IHK) sebesar 132,55. Sedangkan Nasional mengalami inflasi sebesar 0,01 persen dengan indeks harga konsumen sebesar 130,09. Dari 82 kota IHK, 44 kota mengalami inflasi  dan sisanya mengalami deflasi, dimana inflasi tertinggi terjadi di Kota Tual sebesar 1,05 persen, Kota Batam sebesar 0,72 persen, dan Kota Bungo sebesar 0,55 persen. ",
+    "data_source": "BPS",
+    "value": "0.52",
+    "unit": "Tidak Ada Satuan"
+  },
+  {
+    "indicator_id": 7,
+    "title": "Jumlah Penduduk, 2016",
+    "name": "Jumlah Penduduk di Provinsi Maluku Utara, Tahun 2016",
+    "data_source": "BPS",
+    "value": "1185912",
+    "unit": "Jiwa"
+  },
+  {
+    "indicator_id": 8,
+    "title": "Angka Harapan Hidup (Tahun), 2016",
+    "name": "Angka Harapan Hidup (Tahun) di Provinsi Maluku Utara, Tahun 2016",
+    "data_source": "BPS",
+    "value": "67.51",
+    "unit": "Tidak Ada Satuan"
+  },
+  {
+    "indicator_id": 4,
+    "title": "Tingkat Pengangguran Terbuka, 2016",
+    "name": "Tingkat Pengangguran Terbuka di Provinsi Maluku Utara, Tahun 2016",
+    "data_source": "BPS",
+    "value": "5.33",
+    "unit": "Persen"
+  },
+  {
+    "indicator_id": 9,
+    "title": "Harapan Lama Sekolah (Tahun), 2016",
+    "name": "Harapan Lama Sekolah (Tahun) di Provinsi Maluku Utara, Tahun 2016",
+    "data_source": "BPS",
+    "value": "13.45",
+    "unit": "Tidak Ada Satuan"
+  },
+  {
+    "indicator_id": 5,
+    "title": "Pertumbuhan Ekonomi, Triwulan III 2017",
+    "name": "Pertumbuhan Ekonomi di Provinsi Maluku Utara, Triwulan III 2017",
+    "data_source": "BPS",
+    "value": "7.78",
+    "unit": "Persen"
+  },
+  {
+    "indicator_id": 10,
+    "title": "Rata-Rata Lama Sekolah (Tahun), 2016",
+    "name": "Rata-Rata Lama Sekolah (Tahun) di Provinsi Maluku Utara, 2016",
+    "data_source": "BPS",
+    "value": "8.52",
+    "unit": "Tidak Ada Satuan"
+  },
+  {
+    "indicator_id": 11,
+    "title": "Nilai Tukar Petani, Oktober 2017",
+    "name": "Nilai Tukar Petani di Provinsi Maluku Utara, Oktober 2017",
+    "data_source": "BPS",
+    "value": "101.77",
+    "unit": "Tidak Ada Satuan"
+  },
+  {
+    "indicator_id": 6,
+    "title": "Gini Rasio, 2016",
+    "name": "Gini Ratio di Provinsi Maluku Utara, Tahun 2016",
+    "data_source": "BPS",
+    "value": "0.29",
+    "unit": "Tidak Ada Satuan"
+  },
+  {
+    "indicator_id": 12,
+    "title": "Jumlah Wisatawan Nusantara, September 2017",
+    "name": "Jumlah Wisatawan Nusantara di Provinsi Maluku Utara, September 2017",
+    "data_source": "BPS",
+    "value": "16679",
+    "unit": "Jiwa"
+  },
+  {
+    "indicator_id": 1,
+    "title": "Indeks Pembangunan Manusia, 2016",
+    "name": "Indeks Pembangunan Manusia Provinsi Maluku Utara, 2016",
+    "data_source": "BPS",
+    "value": "66.63",
+    "unit": "Tidak Ada Satuan"
+  },
+  {
+    "indicator_id": 13,
+    "title": "Garis Kemiskinan (ribu rupiah), 2016",
+    "name": "Garis Kemiskinan (ribu rupiah) di Provinsi Maluku Utara, 2016",
+    "data_source": "BPS",
+    "value": "376.55",
+    "unit": "Ribu Rupiah"
+  }
+]
